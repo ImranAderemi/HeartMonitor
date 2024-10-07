@@ -1,0 +1,1 @@
+During College, In year 12 I was learning how to use C++ to make a basic application. I was then told to pick a basic application from a list on the brief, the application that I ended up choosing was a heart monitor. However, before posting it I decided to edit and refine it a little.
